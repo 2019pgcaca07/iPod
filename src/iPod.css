@@ -1,0 +1,22 @@
+.container{
+    
+    background-color:grey;
+    height: 200px;
+    width: 200px;
+    margin-left: 20%;
+}
+.contained{
+    position: relative;
+    background-color:white;
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    top: 7%;
+    left: 7%;
+    
+
+}
+.contained.forward{
+    position:absolute;
+    top: 50%;
+}
